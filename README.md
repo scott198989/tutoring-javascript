@@ -109,4 +109,4 @@ const example = "100";
 
 console.log(example)
 
-think of the : (100/20 === 10) as suggesting the statement, like a student saying "100 divided by 20 strictly equals 10", and the question mark and console log, ? console.log(example), is the teacher saying "If that is correct, I will write it on the board".  The opposite is true as well.  Same scenario, but "100/3 === 20", the teacher would write on the board, or, ? console.log(example), false.
+think of the : (100/20 === 10) as suggesting the statement, like a student saying "100 divided by 20 strictly equals 10", and the question mark and console log, ? console.log(example), is the teacher saying "If that is correct, I will write it on the board".  The opposite is true as well.  Same scenario, but "100/3 === 20", the teacher would write on the board, or, ? console.log(example), false.  
